@@ -6,12 +6,17 @@ class calculator {
     }
     // Static add method
        public static int add(int 1, int 2){
+
            System.out.println(int 1 + int 2);
+
+           int result = substract( numOne: 100, numTwo: 300)
        }
 
     // Static subtract method
-       public static int subtract(int 3, int 4){
-           System.out.println(int 3, int 4);
+       public static int subtract(int numOne, int numTwo){
+        return numOne _ numTwo;
+
+           System.out.println(numOne, numTwo);
        }
 
     // Static multiplication method
